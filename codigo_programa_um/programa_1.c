@@ -1,3 +1,8 @@
+//proposta - Implemente um programa que lê um valor inteiro N.
+//Depois, seu programa deve ler N valores e retornar a
+//média e a variância desses valores.
+
+
 //Mateus Augusto da Silva
 
 #include<stdio.h>
